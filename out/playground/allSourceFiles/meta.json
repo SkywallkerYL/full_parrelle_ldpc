@@ -1,0 +1,12 @@
+{
+    "value": [
+        "ref:ce9cf164:/home/yangli/LDPC/playground/src/Common.scala",
+        "ref:84fb36d3:/home/yangli/LDPC/playground/src/Elaborate.scala",
+        "ref:8dc27159:/home/yangli/LDPC/playground/src/CNU.scala",
+        "ref:ac1fefff:/home/yangli/LDPC/playground/src/Message.scala",
+        "ref:7095b815:/home/yangli/LDPC/playground/src/VNU.scala",
+        "ref:67902e1d:/home/yangli/LDPC/playground/src/LDPC.scala"
+    ],
+    "valueHash": -1798087755,
+    "inputsHash": 1627209828
+}
